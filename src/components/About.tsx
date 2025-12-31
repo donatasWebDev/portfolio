@@ -3,7 +3,7 @@ import { FadeIn } from './ui/FadeIn';
 import { Badge } from './ui/Badge';
 import { Code2, Trophy, GraduationCap, Users } from 'lucide-react';
 export function About() {
-  const skills = ['React', 'TypeScript', 'Node.js', 'Python', 'WebSockets', 'PostgreSQL', 'MongoDB', 'Docker', 'Tailwind CSS', 'Git'];
+  const skills = ['React', 'TypeScript', 'Node.js', 'Python', 'WebSockets', 'PostgreSQL', 'MongoDB', 'Docker', 'Tailwind CSS', 'Git', "Web Scraping", "Data Flow Control"];
   const highlights = [{
     icon: <GraduationCap className="w-5 h-5" />,
     text: 'Vocational Graduate (KITM Junior Web Dev)'
