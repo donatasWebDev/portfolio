@@ -11,19 +11,19 @@ export function Connect() {
         </p>
 
         <div className="flex justify-center gap-6 mb-12">
-          <a href="https://github.com" className="group flex flex-col items-center gap-2 text-zinc-500 hover:text-white transition-colors">
+          <a href="https://github.com/donatasWebDev" className="group flex flex-col items-center gap-2 text-zinc-500 hover:text-white transition-colors">
             <div className="p-3 rounded-full bg-zinc-900 group-hover:bg-zinc-800 transition-colors">
               <Github className="w-6 h-6" />
             </div>
             <span className="text-xs font-medium">GitHub</span>
           </a>
-          <a href="https://linkedin.com" className="group flex flex-col items-center gap-2 text-zinc-500 hover:text-white transition-colors">
+          <a href="https://www.linkedin.com/in/donatas-tumenas-17b705306/" className="group flex flex-col items-center gap-2 text-zinc-500 hover:text-white transition-colors">
             <div className="p-3 rounded-full bg-zinc-900 group-hover:bg-zinc-800 transition-colors">
               <Linkedin className="w-6 h-6" />
             </div>
             <span className="text-xs font-medium">LinkedIn</span>
           </a>
-          <a href="mailto:hello@example.com" className="group flex flex-col items-center gap-2 text-zinc-500 hover:text-white transition-colors">
+          <a href="mailto:donatas.tumenas.dev@gmail.com" className="group flex flex-col items-center gap-2 text-zinc-500 hover:text-white transition-colors">
             <div className="p-3 rounded-full bg-zinc-900 group-hover:bg-zinc-800 transition-colors">
               <Mail className="w-6 h-6" />
             </div>
@@ -32,7 +32,7 @@ export function Connect() {
         </div>
 
         <div className="text-xs text-zinc-600">
-          <p>© 2025 Alex Dev • Built with React & Tailwind</p>
+          <p>© 2025 Donatas Dev • Built with React & Tailwind</p>
         </div>
       </FadeIn>
     </section>;
