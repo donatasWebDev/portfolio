@@ -9,7 +9,7 @@ export function Hero() {
           {/* Avatar Placeholder */}
           <div className="shrink-0 relative">
             <div className="w-32 h-32 md:w-40 md:h-40 rounded-full bg-zinc-800 overflow-hidden border-2 border-zinc-700 shadow-xl">
-              <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=faces" alt="Profile" className="w-full h-full object-cover opacity-90 hover:opacity-100 transition-opacity" />
+              <img src="headshot.png" alt="Profile" className="w-full h-full object-cover opacity-90 hover:opacity-100 transition-opacity" />
             </div>
             <div className="absolute -bottom-2 -right-2 md:right-0">
               <span className="relative flex h-4 w-4">
